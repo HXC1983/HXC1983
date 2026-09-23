@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Xavier de Castro 👋
+# Olá, eu sou o Hugo Castro 👋
 
 Sou desenvolvedor de software com foco em **backend**, especializado em **C#, ASP.NET MVC e SQL Server**. Sou Físico e mestre em Engenharia (UFOP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desenvolvo aplicações web e mobile, com interesse especial em soluções que unem análise e boa documentação.
 
