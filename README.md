@@ -1,6 +1,6 @@
 # Olá, eu sou o Hugo Castro 👋
 
-Sou desenvolvedor de software com foco em **backend**, especializado em **C#, ASP.NET MVC e SQL Server**. Sou Físico e mestre em Engenharia (UFOP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desenvolvo aplicações web e mobile, com interesse especial em soluções que unem análise e boa documentação.
+Sou desenvolvedor de software com foco em **backend**, especializado em **C#, ASP.NET MVC e SQL Server**. Sou Físico e Mestre em Engenharia (UFOP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desenvolvo aplicações web e mobile, com interesse especial em soluções que unem análise e boa documentação.
 
 Atualmente, estou buscando oportunidades como **Desenvolvedor Backend Júnior / Estágio (C# / .NET / Python)**.
 
@@ -22,14 +22,14 @@ Sistema web de controle de estoque, desenvolvido para organizar e acompanhar os 
 
 **Tecnologias:** C# e ASP.NET MVC
 **Repositório:** [link]
-**Demonstração:** [link]
+
 
 ### AssinaTrack
 Gerenciador de assinaturas desenvolvido para ajudar o usuário a organizar e acompanhar seus serviços por assinatura em um só lugar.
 
 **Tecnologias:** HTML, CSS e JavaScript
 **Repositório:** [link]
-**Demonstração:** [link]
+
 
 ### FISCALC
 Aplicação web desenvolvida para realizar cálculos de Física e apresentar os resultados de forma clara e visual.
@@ -37,7 +37,7 @@ Aplicação web desenvolvida para realizar cálculos de Física e apresentar os 
 **Tecnologias:** C#, ASP.NET MVC, SQL Server e Chart.js
 **Status:** em fase de documentação
 **Repositório:** [link]
-**Demonstração:** [link]
+
 
 ### DevBench
 Aplicativo mobile criado como rede social para desenvolvedores compartilharem seus setups de hardware e software. Projeto em grupo desenvolvido no curso de ADS da PUC Minas.
@@ -45,7 +45,7 @@ Aplicativo mobile criado como rede social para desenvolvedores compartilharem se
 **Tecnologias:** [EXPO e ReactNative]
 **Status:** Em fase de documentação (requisitos, matriz de rastreabilidade e diagramas de caso de uso)
 **Repositório:** [link]
-**Demonstração:** [link]
+
 
 ## 📌 Atualmente
 
