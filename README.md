@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Castro 👋
+# Olá, eu sou o Hugo Castro! 👋
 
 Sou desenvolvedor de software com foco em **backend**, especializado em **C#, ASP.NET MVC e SQL Server**. Sou Físico e Mestre em Engenharia (UFOP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desenvolvo aplicações web e mobile, com interesse especial em soluções que unem análise e boa documentação.
 
@@ -21,6 +21,7 @@ Atualmente, estou buscando oportunidades como **Desenvolvedor Backend Júnior / 
 Sistema web de controle de estoque, desenvolvido para organizar e acompanhar os produtos de forma prática e estruturada.
 
 **Tecnologias:** C# e ASP.NET MVC
+
 **Repositório:** [link]
 
 
@@ -28,6 +29,7 @@ Sistema web de controle de estoque, desenvolvido para organizar e acompanhar os 
 Gerenciador de assinaturas desenvolvido para ajudar o usuário a organizar e acompanhar seus serviços por assinatura em um só lugar.
 
 **Tecnologias:** HTML, CSS e JavaScript
+
 **Repositório:** [link]
 
 
@@ -35,7 +37,9 @@ Gerenciador de assinaturas desenvolvido para ajudar o usuário a organizar e aco
 Aplicação web desenvolvida para realizar cálculos de Física e apresentar os resultados de forma clara e visual.
 
 **Tecnologias:** C#, ASP.NET MVC, SQL Server e Chart.js
+
 **Status:** em fase de documentação
+
 **Repositório:** [link]
 
 
@@ -43,7 +47,9 @@ Aplicação web desenvolvida para realizar cálculos de Física e apresentar os 
 Aplicativo mobile criado como rede social para desenvolvedores compartilharem seus setups de hardware e software. Projeto em grupo desenvolvido no curso de ADS da PUC Minas.
 
 **Tecnologias:** [EXPO e ReactNative]
+
 **Status:** Em fase de documentação (requisitos, matriz de rastreabilidade e diagramas de caso de uso)
+
 **Repositório:** [link]
 
 
