@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Castro! Seja Bem-vindo(a)! :handshake:
+# Olá, eu sou o Hugo Castro! Seja bem-vindo(a)! :handshake:
 
 Sou desenvolvedor de software com foco em **backend**, especializado em **C#, ASP.NET MVC e SQL Server**. Sou Físico e Mestre em Engenharia (UFOP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Desenvolvo aplicações web e mobile, com interesse especial em soluções que unem análise e boa documentação.
 
