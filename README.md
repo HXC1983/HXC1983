@@ -55,8 +55,8 @@ Aplicativo mobile criado como rede social para desenvolvedores compartilharem se
 
 ## 📌 Atualmente
 
-- Estudando as tecnologias Expo, React Native e Python;
-- Desenvolvendo aplicações web com C# e ASP.NET MVC;
+- Estudando as tecnologias **Expo, React Native e Python;**
+- Desenvolvendo aplicações web com **C# e ASP.NET MVC;**
 - Buscando oportunidades como Desenvolvedor Backend.
 
 ## 📫 Contato
